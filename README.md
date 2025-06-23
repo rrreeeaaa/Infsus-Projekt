@@ -1,4 +1,5 @@
-**STVARČICA**
+#**STVARČICA**
+
 Izradila sam web aplikaciju za upravljanje zalihama proizvoda, koja omogućuje korisnicima unos, pregled, ažuriranje i brisanje proizvoda. Aplikacija je jednostavna za korištenje i idealna za poslovna okruženja poput malih trgovina, ugostiteljskih objekata, skladišta ili ureda koji žele imati kontrolu nad količinom i vrstom proizvoda koje posjeduju.
 
 Korisnik u aplikaciji može:
