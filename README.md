@@ -16,8 +16,8 @@ Jedna od korisnih dodatnih funkcionalnosti je grafikon koji prikazuje broj proiz
 
 ## Pokretanje aplikacije
 Aplikacija se pokreće kroz Docker, što znači da nije potrebno ručno instalirati ovisnosti, a sve se pokreće jednim naredbama:
-docker build -t zalihe_app .
-docker run -p 5000:5000 zalihe_app
+- docker build -t zalihe_app .
+- docker run -p 5000:5000 zalihe_app
 
 
 ## Usecase dijagram:
